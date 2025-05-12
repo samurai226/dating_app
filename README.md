@@ -1,6 +1,6 @@
-# dating_app
+# Fortifun
 
-A new Flutter project.
+MVP application de rencontre par matching.
 
 ## Getting Started
 
